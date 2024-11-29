@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DeskDine/static/css/main.a6b3505f.css",
-    "main.js": "/DeskDine/static/js/main.f7f0fdfe.js",
+    "main.js": "/DeskDine/static/js/main.727507ce.js",
     "static/media/Sada Paratha.jpg": "/DeskDine/static/media/Sada Paratha.0bd50669ab88769ec8ba.jpg",
     "static/media/Sev Onion Paratha.jpg": "/DeskDine/static/media/Sev Onion Paratha.7e67e539371e910c664e.jpg",
     "static/media/Aloo Paratha.jpg": "/DeskDine/static/media/Aloo Paratha.fdfc1ee6aa46ff5bf0d2.jpg",
@@ -11,10 +11,10 @@
     "static/media/vegetarian-sign.png": "/DeskDine/static/media/vegetarian-sign.7708808d68176c92c4f9.png",
     "index.html": "/DeskDine/index.html",
     "main.a6b3505f.css.map": "/DeskDine/static/css/main.a6b3505f.css.map",
-    "main.f7f0fdfe.js.map": "/DeskDine/static/js/main.f7f0fdfe.js.map"
+    "main.727507ce.js.map": "/DeskDine/static/js/main.727507ce.js.map"
   },
   "entrypoints": [
     "static/css/main.a6b3505f.css",
-    "static/js/main.f7f0fdfe.js"
+    "static/js/main.727507ce.js"
   ]
 }
